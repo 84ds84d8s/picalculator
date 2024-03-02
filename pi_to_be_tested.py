@@ -21,4 +21,4 @@ while True:
 	  	print("Press anything to exit. You can find your value of pi in pi.txt. Note the final few digits aren't guaranteed to be correct.")
 	  	input()
 	  	break
-	  u = su 
+	  u = sum
